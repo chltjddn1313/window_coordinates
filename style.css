@@ -5,6 +5,16 @@ div {
   background-color: blue;
 }
 
+aside {
+  display: flex;
+  position: fixed;
+  right: 20px;
+}
+
+button {
+  margin: 3px;
+}
+
 .box {
   background-color: red;
 }
